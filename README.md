@@ -32,15 +32,17 @@ I'm a passionate **Software Engineer & Front-End Developer** with a strong found
 ## 🚀 Tech Stack & Tools
 
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3, SQL Server, Python  
-- **Styling**: SASS, Bootstrap, Tailwind CSS  
+- **Styling**: SASS, Bootstrap5, Tailwind CSS  
 - **Frameworks & Libraries**: Angular, jQuery, AJAX, Flask  
 - **Databases**: SQL Server  
-- **Data Integration**: SSIS (SQL Server Integration Services)  
+- **Data Integration**: SSIS (SQL Server Integration Services)
+- **Networking** (CCNA Certified)  
 - **Other Tools**:
   - Git & GitHub  
   - Trello  
   - Agile (Scrum & Sprints)  
-  - Daily Stand-ups, Team Collaboration  
+  - Daily Stand-ups, Team Collaboration
+    
 
 ---
 
@@ -50,16 +52,16 @@ I'm a passionate **Software Engineer & Front-End Developer** with a strong found
 - Design Patterns (Factory, Singleton, Observer...)  
 - Clean Code Principles  
 - API Integration  
-- Networking (CCNA Certified)  
+
 
 ---
 
 ## 🏆 Achievements
 
-- Developed an AI-powered chatbot for Network KPIs at **Vodafone Egypt** using **Rasa**, **SSIS**, and **MS SQL**.  
+- Developed an AI-powered chatbot for Network KPIs at **Vodafone Egypt** using **Rasa**, **python**, and **MS SQL**.
+- Built advanced Rasa conversational flows with stories, rules, and NLU training.  
 - Automated 5G KPI reporting pipelines and integrated with internal tools.  
 - Selected among **Top 300 finalists** in *She Works Wonders* program by **INJAZ Egypt**.  
-- Built advanced Rasa conversational flows with stories, rules, and NLU training.  
 - Created a **Vein Detection Device** using embedded systems and image processing (Graduation Project).  
 - Earned certifications in:
   - CCNA v7 (Cisco Networking Academy – 3 tracks)  
@@ -71,7 +73,7 @@ I'm a passionate **Software Engineer & Front-End Developer** with a strong found
 
 ## 🌱 Currently Evolving In
 
-- Learning **Back-End Development** using **Node.js** and **.NET**  
+- Learning **Back-End Development** using **Node.js**  
 - Deepening knowledge in **OOP** and **Design Patterns**  
 - Practicing **Clean Code** and scalable architecture  
 - Strengthening **problem-solving** and **system thinking**  
@@ -98,7 +100,6 @@ I strive to **innovate**, solve real-world problems, and build software that mak
 
 ## 🌟 Explore More
 
-- **Portfolio**: [My Portfolio](#)  
-- **Blog**: [Coding Adventures](#)  
+- **Portfolio**: [My Portfolio](#) 
 
 Let’s make something amazing together! 🚀
